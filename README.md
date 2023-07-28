@@ -1,6 +1,8 @@
 # TicketMaxCDK
 
-My web application, TicketMax, utilizes an SQS FIFO queue, Lambda for its queueing system, and i deployed it with CDK.
+TicketMax is a web application that implements a queueing system which is based on SQS FIFO queue and Lambda.
+
+The entire infrastructure, including the SQS FIFO queue and Lambda functions, was deployed using the Cloud Development Kit (CDK).
 
 
 - [Website Link](https://ticketmax.yzuhyu.com/)
